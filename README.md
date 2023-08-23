@@ -4,12 +4,12 @@ We've created a moe alternative to sudo called __moedo__.
 
 If you can bypass its moe secuirty you'll be awarded with the flag!
 
-`telnet moe.uctf.ir 7002`
-> Username: `mashiro`
-> Password: Qh3VRn@23jv43Q
+> `telnet moe.uctf.ir 7002`\
+> Username: `mashiro`\
+> Password: `Qh3VRn@23jv43Q`
 
 <details>
-<summary>__moedo__ source code:</summary>
+<summary><strong>moedo</strong> source code:</summary>
 
 ```c
 #include <stdio.h>
