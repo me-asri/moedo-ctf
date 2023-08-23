@@ -11,7 +11,7 @@ services:
     environment:
       LOGIN_TIMEOUT: 10
     ports:
-      - "127.0.0.1:7002:7000"
+      - "127.0.0.1:6002:7000"
     restart: always
     # read_only: true
     cgroup: host
